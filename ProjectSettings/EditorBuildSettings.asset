@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SmartVR.unity
+    guid: 0e27dd555d2058c4a8384850dc5457c7
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4a346876b4be8484b876c8ffed47e52a
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f70597e63b9f38346b3676fb4693aaca, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4eecad0ecbbfd8d43aa11130166eadea, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 67094def62348c840a323929a7e8abd0, type: 2}
